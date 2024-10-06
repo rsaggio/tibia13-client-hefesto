@@ -1,0 +1,127 @@
+[ 2024-10-06 11:40:07,641 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 11:40:08,007 ] Using spritesheet cache size of 910
+[ 2024-10-06 11:40:10,883 ] Asset loading complete
+[ 2024-10-06 11:40:11,051 ] Could not find Sound Effect ID 688
+[ 2024-10-06 11:41:31,643 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 11:41:31,957 ] Using spritesheet cache size of 910
+[ 2024-10-06 11:41:33,963 ] Asset loading complete
+[ 2024-10-06 11:50:40,435 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 11:50:40,892 ] Using spritesheet cache size of 910
+[ 2024-10-06 11:50:42,425 ] Asset loading complete
+[ 2024-10-06 11:50:42,594 ] Could not find Sound Effect ID 688
+[ 2024-10-06 11:54:41,610 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 11:54:42,036 ] Using spritesheet cache size of 910
+[ 2024-10-06 11:54:44,577 ] Asset loading complete
+[ 2024-10-06 11:54:44,736 ] Could not find Sound Effect ID 688
+[ 2024-10-06 11:56:26,587 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 11:56:27,037 ] Using spritesheet cache size of 910
+[ 2024-10-06 11:56:28,099 ] Asset loading complete
+[ 2024-10-06 11:58:24,681 ] Retrying to obtain clipboard.
+[ 2024-10-06 11:58:26,097 ] Retrying to obtain clipboard.
+[ 2024-10-06 11:58:56,380 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 11:58:56,821 ] Using spritesheet cache size of 910
+[ 2024-10-06 11:58:58,441 ] Asset loading complete
+[ 2024-10-06 11:58:58,638 ] Could not find Sound Effect ID 688
+[ 2024-10-06 12:42:07,907 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 12:42:08,353 ] Using spritesheet cache size of 910
+[ 2024-10-06 12:42:09,444 ] Asset loading complete
+[ 2024-10-06 12:45:08,626 ] Retrying to obtain clipboard.
+[ 2024-10-06 12:45:08,843 ] Retrying to obtain clipboard.
+[ 2024-10-06 12:45:09,033 ] Retrying to obtain clipboard.
+[ 2024-10-06 12:45:13,350 ] Retrying to obtain clipboard.
+[ 2024-10-06 12:46:18,828 ] Retrying to obtain clipboard.
+[ 2024-10-06 12:46:41,604 ] Retrying to obtain clipboard.
+[ 2024-10-06 12:46:55,869 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 12:46:56,363 ] Using spritesheet cache size of 910
+[ 2024-10-06 12:46:57,498 ] Asset loading complete
+[ 2024-10-06 13:05:07,476 ] Retrying to obtain clipboard.
+[ 2024-10-06 13:44:21,807 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 13:44:22,360 ] Using spritesheet cache size of 910
+[ 2024-10-06 13:44:25,042 ] Asset loading complete
+[ 2024-10-06 13:44:33,209 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 13:44:33,209 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 13:44:33,209 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 13:44:33,209 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 13:44:33,209 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 13:44:33,284 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:44:33,288 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:44:37,447 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:44:38,446 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:44:42,596 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:44:42,605 ] Disconnected from gameserver
+[ 2024-10-06 13:44:43,945 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:44:43,950 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:44:48,147 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:44:49,147 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:44:53,297 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:44:53,303 ] Disconnected from gameserver
+[ 2024-10-06 13:44:54,475 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:44:54,477 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:44:58,647 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:44:59,647 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:03,797 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:45:03,803 ] Disconnected from gameserver
+[ 2024-10-06 13:45:04,975 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:45:04,977 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:05,917 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 13:45:09,146 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:45:10,146 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:21,796 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:45:21,805 ] Disconnected from gameserver
+[ 2024-10-06 13:45:24,053 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:45:24,055 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:25,025 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 13:45:28,247 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:45:29,247 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:33,397 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:45:33,403 ] Disconnected from gameserver
+[ 2024-10-06 13:45:37,855 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:45:37,857 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:38,805 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 13:45:42,047 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2024-10-06 13:45:42,104 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 13:45:50,834 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 13:45:52,227 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 13:45:52,230 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:52,238 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 13:45:53,187 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 13:46:23,697 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 13:46:23,859 ] Disconnected from gameserver
+[ 2024-10-06 13:46:26,553 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 14:41:57,355 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 14:41:58,050 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Druid Sample" )
+[ 2024-10-06 14:41:58,056 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 14:41:58,064 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 14:41:58,997 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 15:14:00,584 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 15:14:01,078 ] Using spritesheet cache size of 910
+[ 2024-10-06 15:14:04,042 ] Asset loading complete
+[ 2024-10-06 15:14:04,204 ] Could not find Sound Effect ID 688
+[ 2024-10-06 15:15:12,293 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 15:15:12,908 ] Using spritesheet cache size of 910
+[ 2024-10-06 15:15:15,727 ] Asset loading complete
+[ 2024-10-06 15:15:24,746 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 15:15:24,748 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 15:15:24,748 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 15:15:24,748 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 15:15:24,748 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 15:15:24,802 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Elder Sword" )
+[ 2024-10-06 15:15:24,812 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2024-10-06 15:15:24,823 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2024-10-06 15:16:27,716 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342243767 found"
+[ 2024-10-06 15:16:44,361 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 15:16:44,531 ] Disconnected from gameserver
+[ 2024-10-06 18:25:06,341 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 18:25:06,806 ] Using spritesheet cache size of 910
+[ 2024-10-06 18:25:09,768 ] Asset loading complete
+[ 2024-10-06 18:25:09,931 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:26:07,829 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 18:26:07,829 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 18:26:07,829 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 18:26:07,829 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 18:26:07,829 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 18:26:07,891 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Elder Sword" )
+[ 2024-10-06 18:26:07,898 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 18:26:07,909 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 18:26:20,366 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 18:26:20,533 ] Disconnected from gameserver

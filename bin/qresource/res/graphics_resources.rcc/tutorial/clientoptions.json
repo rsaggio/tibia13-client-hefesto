@@ -1,0 +1,14 @@
+{
+	"clientOptionsVersion": 6,
+	"convertedLegacyConfiguration": true,
+	"options": {
+		"lightEffectsEnabled": false,
+		"quickLogin": true,
+		"controlSchemeIndex": 2,
+		"mapWindowHeight": 350,
+    "screenshotsAutoScreenshotsEnabled": false,
+    "statusBarEnabled": false,
+    "statusPanelEnabled": true
+	},
+	"rendererChangeConfirmationRequired": false
+}
