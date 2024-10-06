@@ -143,3 +143,14 @@
 [ 2024-10-06 18:59:06,144 ] Could not find Sound Effect ID 688
 [ 2024-10-06 18:59:06,171 ] Could not find Sound Effect ID 688
 [ 2024-10-06 18:59:08,316 ] Could not find Sound Effect ID 688
+[ 2024-10-06 19:03:34,813 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 19:03:35,298 ] Using spritesheet cache size of 910
+[ 2024-10-06 19:03:37,617 ] Asset loading complete
+[ 2024-10-06 19:03:45,046 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 19:03:45,046 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 19:03:45,046 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 19:03:45,046 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 19:03:45,046 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 19:03:45,101 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Elder Sword" )
+[ 2024-10-06 19:03:45,109 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:03:45,121 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
