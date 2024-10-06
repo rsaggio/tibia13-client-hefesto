@@ -125,3 +125,21 @@
 [ 2024-10-06 18:26:07,909 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
 [ 2024-10-06 18:26:20,366 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
 [ 2024-10-06 18:26:20,533 ] Disconnected from gameserver
+[ 2024-10-06 18:58:55,058 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 18:58:55,513 ] Using spritesheet cache size of 910
+[ 2024-10-06 18:58:58,477 ] Asset loading complete
+[ 2024-10-06 18:58:58,646 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:59:04,456 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:59:04,909 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:59:05,224 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:59:05,694 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 18:59:05,694 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 18:59:05,694 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 18:59:05,694 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 18:59:05,694 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 18:59:05,755 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Amigo Do Renato" )
+[ 2024-10-06 18:59:05,761 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 18:59:05,772 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 18:59:06,144 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:59:06,171 ] Could not find Sound Effect ID 688
+[ 2024-10-06 18:59:08,316 ] Could not find Sound Effect ID 688
