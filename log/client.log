@@ -154,3 +154,391 @@
 [ 2024-10-06 19:03:45,101 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Elder Sword" )
 [ 2024-10-06 19:03:45,109 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
 [ 2024-10-06 19:03:45,121 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:53:56,918 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 19:53:57,403 ] Using spritesheet cache size of 910
+[ 2024-10-06 19:53:59,945 ] Asset loading complete
+[ 2024-10-06 19:54:17,087 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 19:54:17,088 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 19:54:17,088 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 19:54:17,088 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 19:54:17,088 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 19:54:17,150 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 19:54:17,158 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:54:17,173 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:54:19,548 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 19:54:19,687 ] Disconnected from gameserver
+[ 2024-10-06 19:54:19,997 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 19:54:20,910 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Knight Sample" )
+[ 2024-10-06 19:54:20,948 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:54:20,957 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:54:21,871 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 19:54:27,148 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 19:54:27,285 ] Disconnected from gameserver
+[ 2024-10-06 19:54:27,335 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 19:54:43,438 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 19:54:43,442 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:54:43,456 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:54:44,400 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 19:59:57,748 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 19:59:57,894 ] Disconnected from gameserver
+[ 2024-10-06 19:59:57,967 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 19:59:59,873 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Knight Sample" )
+[ 2024-10-06 19:59:59,876 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 19:59:59,882 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:00:00,837 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:00:06,698 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:00:06,840 ] Disconnected from gameserver
+[ 2024-10-06 20:00:06,887 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:00:08,869 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 20:00:08,874 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:00:08,882 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:00:09,841 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:02:14,898 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:02:15,050 ] Disconnected from gameserver
+[ 2024-10-06 20:02:15,118 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:02:16,038 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Knight Sample" )
+[ 2024-10-06 20:02:16,041 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:02:16,049 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:02:16,995 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:02:41,398 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:02:41,550 ] Disconnected from gameserver
+[ 2024-10-06 20:02:41,619 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:02:44,509 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-06 20:02:44,512 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:02:44,519 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:02:45,479 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:04:09,849 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:04:10,004 ] Disconnected from gameserver
+[ 2024-10-06 20:04:10,056 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:04:11,003 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Knight Sample" )
+[ 2024-10-06 20:04:11,007 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:04:11,014 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:04:11,965 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:04:27,677 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:04:27,677 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:05:46,548 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:05:46,722 ] Disconnected from gameserver
+[ 2024-10-06 20:05:46,766 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:05:56,106 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:06:02,101 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Elder Sword" )
+[ 2024-10-06 20:06:02,104 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:06:02,116 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:06:03,061 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:06:05,351 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:06:05,351 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:06:25,498 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:06:25,660 ] Disconnected from gameserver
+[ 2024-10-06 20:06:25,709 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:06:37,260 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:06:38,728 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Knight Sample" )
+[ 2024-10-06 20:06:38,731 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:06:38,742 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:06:39,696 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:06:46,253 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:06:46,253 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:07:41,572 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 20:07:42,031 ] Using spritesheet cache size of 910
+[ 2024-10-06 20:07:43,097 ] Asset loading complete
+[ 2024-10-06 20:07:56,720 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 20:07:56,720 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 20:07:56,720 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 20:07:56,720 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 20:07:56,720 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 20:07:56,780 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "God Restart" )
+[ 2024-10-06 20:07:56,787 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:07:56,801 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:09:12,248 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:09:12,414 ] Disconnected from gameserver
+[ 2024-10-06 20:09:12,472 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:09:16,665 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:09:18,396 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Druid Sample" )
+[ 2024-10-06 20:09:18,399 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:09:18,409 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:09:19,343 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:09:49,507 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:09:49,507 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:14:08,048 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:14:08,240 ] Disconnected from gameserver
+[ 2024-10-06 20:14:08,303 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:14:46,099 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:14:49,998 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Sorcerer Sample" )
+[ 2024-10-06 20:14:50,001 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:14:50,009 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:14:50,930 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:14:54,788 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:14:54,788 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:18:03,299 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:18:03,477 ] Disconnected from gameserver
+[ 2024-10-06 20:18:03,539 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:18:05,688 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Paladin Sample" )
+[ 2024-10-06 20:18:05,692 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:18:05,700 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:18:06,637 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:18:54,402 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:18:54,402 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:21:09,095 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:21:09,095 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:23:41,598 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:23:41,789 ] Disconnected from gameserver
+[ 2024-10-06 20:23:41,864 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:23:49,345 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Druid Sample" )
+[ 2024-10-06 20:23:49,349 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:23:49,356 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:23:50,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:23:54,201 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:23:54,379 ] Disconnected from gameserver
+[ 2024-10-06 20:23:54,434 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:23:55,959 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Knight Sample" )
+[ 2024-10-06 20:23:55,963 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:23:55,970 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:23:56,901 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:24:01,601 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:24:01,778 ] Disconnected from gameserver
+[ 2024-10-06 20:24:01,849 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:24:03,105 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Paladin Sample" )
+[ 2024-10-06 20:24:03,108 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:24:03,117 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:24:04,058 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:24:05,001 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:24:05,181 ] Disconnected from gameserver
+[ 2024-10-06 20:24:05,236 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:24:07,630 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Sorcerer Sample" )
+[ 2024-10-06 20:24:07,634 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:24:07,642 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:24:08,572 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:24:13,651 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:24:13,848 ] Disconnected from gameserver
+[ 2024-10-06 20:24:13,910 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:24:18,474 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:24:18,659 ] Disconnected from gameserver
+[ 2024-10-06 20:31:02,083 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-06 20:31:02,513 ] Using spritesheet cache size of 910
+[ 2024-10-06 20:31:05,131 ] Asset loading complete
+[ 2024-10-06 20:31:05,284 ] Could not find Sound Effect ID 688
+[ 2024-10-06 20:31:12,097 ] Could not find Sound Effect ID 688
+[ 2024-10-06 20:31:12,624 ] Could not find Sound Effect ID 688
+[ 2024-10-06 20:31:13,342 ] Could not find Sound Effect ID 688
+[ 2024-10-06 20:31:13,778 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-06 20:31:13,778 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-06 20:31:13,778 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-06 20:31:13,778 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-06 20:31:13,778 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-06 20:31:13,834 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "God Restart" )
+[ 2024-10-06 20:31:13,841 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:31:13,851 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:34:27,527 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:34:27,694 ] Disconnected from gameserver
+[ 2024-10-06 20:34:31,199 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:34:32,645 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "Elder Baron" )
+[ 2024-10-06 20:34:32,647 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:34:32,657 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-06 20:34:33,607 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-06 20:34:45,628 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-06 20:34:45,628 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-06 20:34:54,727 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-06 20:34:54,888 ] Disconnected from gameserver
+[ 2024-10-06 20:34:54,948 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://hefesto-server.com.br/login.php") ) due to too many retries.
+[ 2024-10-07 04:00:57,028 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 04:00:57,962 ] Using spritesheet cache size of 910
+[ 2024-10-07 04:01:04,034 ] Asset loading complete
+[ 2024-10-07 04:01:16,074 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 04:01:16,074 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 04:01:16,074 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 04:01:16,074 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 04:01:16,074 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 04:01:16,131 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 04:01:16,136 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-07 04:01:16,146 ] Connected to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"
+[ 2024-10-07 04:01:17,787 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-07 04:01:17,787 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-07 04:03:07,936 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-07 04:03:07,936 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-07 04:03:15,418 ] Connection to gameserver  "tcp://34.39.130.16:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 04:03:15,571 ] Disconnected from gameserver
+[ 2024-10-07 13:51:02,602 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 13:51:03,706 ] Using spritesheet cache size of 910
+[ 2024-10-07 13:51:11,593 ] Asset loading complete
+[ 2024-10-07 13:51:19,072 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 13:51:19,072 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 13:51:19,072 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 13:51:19,072 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 13:51:19,072 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 13:51:19,144 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 13:51:19,147 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 13:51:19,163 ] Connected to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 13:51:22,713 ] Connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 13:51:22,902 ] Disconnected from gameserver
+[ 2024-10-07 14:22:25,768 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 14:22:26,329 ] Using spritesheet cache size of 910
+[ 2024-10-07 14:22:29,016 ] Asset loading complete
+[ 2024-10-07 14:22:57,131 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 14:22:57,131 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 14:22:57,131 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 14:22:57,131 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 14:22:57,131 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 14:22:57,209 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 14:22:57,218 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 14:22:57,232 ] Connected to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 14:24:01,765 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-07 14:24:01,778 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-07 14:24:39,209 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-07 14:24:39,209 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-07 14:27:12,773 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-07 14:27:12,788 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-07 14:28:20,911 ] Retrying to obtain clipboard.
+[ 2024-10-07 14:29:49,150 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_podiumoftenacity.png - server replied: Not Found
+[ 2024-10-07 14:29:49,150 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring https://hefesto-server.com.br/images/store//home/banner_armouredarcher.png - server replied: Not Found
+[ 2024-10-07 14:30:12,607 ] Connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 14:30:12,866 ] Disconnected from gameserver
+[ 2024-10-07 15:34:58,000 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 15:34:58,491 ] Using spritesheet cache size of 910
+[ 2024-10-07 15:35:01,497 ] Asset loading complete
+[ 2024-10-07 15:35:01,671 ] Could not find Sound Effect ID 688
+[ 2024-10-07 15:56:11,572 ] Could not find Sound Effect ID 688
+[ 2024-10-07 15:56:12,235 ] Could not find Sound Effect ID 688
+[ 2024-10-07 15:56:16,619 ] Could not find Sound Effect ID 688
+[ 2024-10-07 15:56:17,231 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 15:56:17,231 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 15:56:17,231 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 15:56:17,231 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 15:56:17,231 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 15:56:17,299 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 15:56:17,309 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 15:56:17,328 ] Connected to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 15:56:31,490 ] Could not find Sound Effect ID 688
+[ 2024-10-07 16:57:21,739 ] Retrying to obtain clipboard.
+[ 2024-10-07 16:58:08,831 ] Retrying to obtain clipboard.
+[ 2024-10-07 17:00:06,267 ] Retrying to obtain clipboard.
+[ 2024-10-07 17:00:52,576 ] Connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:00:52,799 ] Disconnected from gameserver
+[ 2024-10-07 17:05:15,158 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:05:15,698 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:05:17,572 ] Asset loading complete
+[ 2024-10-07 17:05:28,611 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 17:05:28,612 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 17:05:28,612 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 17:05:28,612 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 17:05:28,612 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 17:05:28,677 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:05:28,684 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:05:28,686 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:28,773 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "" )
+[ 2024-10-07 17:06:28,983 ] Disconnected from gameserver
+[ 2024-10-07 17:06:29,007 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:43,844 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:43,847 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:43,858 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:43,907 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:06:43,912 ] Disconnected from gameserver
+[ 2024-10-07 17:06:44,777 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:45,081 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:45,107 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:45,119 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:45,157 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:06:45,162 ] Disconnected from gameserver
+[ 2024-10-07 17:06:46,049 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:46,333 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:46,334 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:46,350 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:46,357 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:06:46,363 ] Disconnected from gameserver
+[ 2024-10-07 17:06:47,292 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:47,541 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:47,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:47,558 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:47,607 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:06:47,613 ] Disconnected from gameserver
+[ 2024-10-07 17:06:48,495 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:49,878 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:49,881 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:49,893 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:49,907 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:06:49,912 ] Disconnected from gameserver
+[ 2024-10-07 17:06:50,838 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:54,361 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:54,365 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:54,377 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:54,407 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:06:54,413 ] Disconnected from gameserver
+[ 2024-10-07 17:06:55,306 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:06:59,954 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:06:59,957 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:06:59,968 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:00,007 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:07:00,013 ] Disconnected from gameserver
+[ 2024-10-07 17:07:00,899 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:07:05,590 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:07:05,593 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:05,605 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:05,607 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:07:05,612 ] Disconnected from gameserver
+[ 2024-10-07 17:07:06,541 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:07:11,175 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:07:11,177 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:11,191 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:11,207 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:07:11,213 ] Disconnected from gameserver
+[ 2024-10-07 17:07:12,119 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:07:16,748 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:07:16,751 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:16,764 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:16,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:07:16,816 ] Disconnected from gameserver
+[ 2024-10-07 17:07:17,714 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:07:18,529 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:07:19,569 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:07:19,573 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:19,584 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hefesto"
+[ 2024-10-07 17:07:20,525 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:11:18,356 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hefesto"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:11:18,555 ] Disconnected from gameserver
+[ 2024-10-07 17:15:13,991 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-10-07 17:21:16,030 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:21:16,569 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:21:19,624 ] Asset loading complete
+[ 2024-10-07 17:32:38,115 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:32:38,628 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:32:41,836 ] Asset loading complete
+[ 2024-10-07 17:32:42,041 ] Could not find Sound Effect ID 688
+[ 2024-10-07 17:32:48,235 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:32:48,752 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:32:51,364 ] Asset loading complete
+[ 2024-10-07 17:32:51,587 ] Could not find Sound Effect ID 688
+[ 2024-10-07 17:33:44,247 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:33:44,743 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:33:47,783 ] Asset loading complete
+[ 2024-10-07 17:33:48,017 ] Could not find Sound Effect ID 688
+[ 2024-10-07 17:38:05,288 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:38:05,789 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:38:08,857 ] Asset loading complete
+[ 2024-10-07 17:38:13,103 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 17:38:13,103 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 17:38:13,103 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 17:38:13,103 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 17:38:13,103 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 17:38:13,169 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:38:13,177 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 17:38:13,188 ] Connected to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 17:38:15,640 ] Connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:38:15,828 ] Disconnected from gameserver
+[ 2024-10-07 17:39:14,484 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 17:39:14,973 ] Using spritesheet cache size of 910
+[ 2024-10-07 17:39:17,514 ] Asset loading complete
+[ 2024-10-07 17:39:22,958 ] BattlEye: "Initialized (v1.249)"
+[ 2024-10-07 17:39:22,958 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-10-07 17:39:22,958 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-10-07 17:39:22,958 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-10-07 17:39:22,958 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-10-07 17:39:23,033 ] Request connection to gameserver  "tcp://34.39.130.16:7172"  (unprotected:  "tcp://34.39.130.16:7172" )  requested (Charakter "GOD" )
+[ 2024-10-07 17:39:23,043 ] Request connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 17:39:23,052 ] Connected to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"
+[ 2024-10-07 17:39:35,316 ] Connection to gameserver  "tcp://34.39.130.16:7172" "Hefesto Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-10-07 17:39:35,477 ] Disconnected from gameserver
+[ 2024-10-07 18:03:38,584 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-10-07 18:03:39,378 ] Using spritesheet cache size of 910
+[ 2024-10-07 18:03:46,235 ] Asset loading complete
+[ 2024-10-07 18:03:54,448 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-10-07 18:03:54,595 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-10-07 18:03:54,872 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-10-07 18:03:54,872 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-10-07 18:03:55,628 ] Deprecated API for given entry type.
